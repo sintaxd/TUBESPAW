@@ -1,5 +1,6 @@
 <?php
 //aa
+//fak
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
